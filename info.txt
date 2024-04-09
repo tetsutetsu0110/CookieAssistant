@@ -4,7 +4,7 @@
 	"Author": "Hitsub",
 	"Description": "Assist tools for CookieClicker Steam edition.",
 	"ModVersion": 0.7,
-	"GameVersion": 2.04,
+	"GameVersion": 2.052,
 	"Date": "08/09/2021",
 	"Dependencies": [],
 	"Disabled": 1,
