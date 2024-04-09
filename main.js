@@ -9,7 +9,7 @@ if(typeof CCSE == 'undefined')
 
 CookieAssistant.name = 'Cookie Assistant';
 CookieAssistant.version = '0.7.0';
-CookieAssistant.GameVersion = '2.042';
+CookieAssistant.GameVersion = '2.052';
 
 
 CookieAssistant.launch = function()
